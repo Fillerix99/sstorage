@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Otohits
+Name[en_US]=Otohits
+Exec=/home/ubuntu/OtohitsApp/OtohitsApp
+Comment[en_US]=Otohits surfer
+StartupNotify=true
